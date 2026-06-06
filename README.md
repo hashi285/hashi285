@@ -8,9 +8,6 @@
 - Contact: m51187251@gmail.com
 ## Project Information
 
-| Item | Description |
-|------|-------------|
-| Project Name | Deepfake Detection System |
-| Language | Python |
-| Framework | PyTorch |
-| License | MIT |
+| Date | Title & Topic | Link |
+|------|-------------|------|
+| Project Name | Deepfake Detection System | Deepfake Detection System |
