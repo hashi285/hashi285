@@ -10,4 +10,4 @@
 
 | Date | Title & Topic | Link |
 |------|------------------------------------|------|
-| Project Name | Deepfake Detection System | Deepfake Detection System |
+| Project Name | --------------------------------------------------------------- | Deepfake Detection System |
