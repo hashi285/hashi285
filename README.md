@@ -10,4 +10,5 @@
 
 | Date | Title & Topic | Link |
 |------|------------------------------------|------|
+| 2026.07 | Gradient-Based Learning Applied to Document Recognition (1998) | ------------------------ |
 | 2026.07 | AlexNet: ImageNet Classification with Deep Convolutional Neural Networks (2012) | ------------------------ |
